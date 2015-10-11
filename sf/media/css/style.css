@@ -1,0 +1,17 @@
+html, body {
+    height : 100%;
+}
+
+body > .well {
+    height  : 100%;
+    margin  : 0;
+    padding : 0;
+}
+
+#login-form {
+    margin-top : 40px;
+}
+
+.pagination > li > a, .pagination > li > span {
+    background-color : transparent;
+}

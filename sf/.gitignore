@@ -1,0 +1,6 @@
+### Kohana template
+application/cache/*
+application/logs/*
+system/config/*
+adminer.php
+apache_logs
